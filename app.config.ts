@@ -1,8 +1,9 @@
 export default defineAppConfig({
   docus: {
     title: 'BSA Troop 27',
-    description: 'The best place to start your documentation.',
+    description: 'BSA Troop 27 Website',
     image: '/t27_patch.png',
+
     socials: {
       twitter: '',
       github: '',
@@ -12,6 +13,7 @@ export default defineAppConfig({
         href: 'https://nuxt.com'
       }
     },
+
     github: {
       dir: '.starters/default/content',
       branch: 'main',
@@ -19,22 +21,27 @@ export default defineAppConfig({
       owner: 'nuxt-themes',
       edit: true
     },
+
     aside: {
-      level: 0,
+      level: 1,
       collapsed: false,
       exclude: []
     },
+
     main: {
       padded: true,
       fluid: true
     },
+
     header: {
-      logo: true,
+      logo: false,
       showLinkIcon: true,
       exclude: [],
       fluid: true,
       title: 'BSA Troop 27'
-    }
+    },
+
+    titleTemplate: '%s · Docus'
   },
 
   nuxtIcon: {
