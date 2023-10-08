@@ -27,7 +27,7 @@ import type { PropType } from 'vue'
 <style scoped lang="ts">
 css({
   '.t27banner': {
-	backgroundImage: 'url("t27_header.png")',
+	backgroundImage: 'url("/t27_header.png")',
 	backgroundSize: 'contain',
     width: '-webkit-fill-available',
     pointerEvents: 'none',
