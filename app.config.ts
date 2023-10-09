@@ -6,8 +6,8 @@ export default defineAppConfig({
 		url: 'https://www.bsatroop27.us/',
 
 		aside: {
-			level: 1,
-			collapsed: false,
+			level: 0,
+			collapsed: true,
 			exclude: []
 		},
 
@@ -29,7 +29,7 @@ export default defineAppConfig({
 		footer: {
 			credits: {
 				icon: '',
-				text: 'Copyright(C) BSA Troop 27 RoundRock Texas',
+				text: 'Copyright(C) BSA Capital Area Council Troop 27 RoundRock Texas',
 				href: 'https://www.bsatroop27.us/'
 			},
 			textLinks: [],

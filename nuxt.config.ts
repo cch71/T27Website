@@ -5,6 +5,9 @@ export default defineNuxtConfig({
 	css: [
 		'@/assets/css/main.css',
 	],
+	colorMode: {
+		preference: "light"
+	},
 	modules: [
 		// Remove it if you don't use Plausible analytics
 		// https://github.com/nuxt-modules/plausible

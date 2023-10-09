@@ -32,6 +32,7 @@ css({
     width: '-webkit-fill-available',
     pointerEvents: 'none',
     padding: '{space.5} 0',
+    marginBottom: '{space.5}',
     '@sm': {
       padding: '{space.5} 0',
     },
