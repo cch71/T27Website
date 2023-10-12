@@ -15,7 +15,7 @@ import type { PropType } from 'vue'
           </ContentSlot>
         </h1>
 
-        <p class="description">
+        <p v-if="$slots.description" class="description">
           <ContentSlot :use="$slots.description" unwrap="p">
           </ContentSlot>
         </p>
@@ -69,8 +69,12 @@ css({
         px: '{space.8}',
       },
       '.description': {
+        backgroundColor: 'lightgray',
+        background: 'rgba(0, 0, 0, 0.1)',
+        borderRadius: '10px',
+        padding: '5px',
+        margin: '0 10px',
         marginBottom: '{space.8}',
-        fontWeight: '{fontWeight.bold}',
         fontSize: '{text.lg.fontSize}',
         lineHeight: '{text.lg.lineHeight}',
         textAlign: 'center',

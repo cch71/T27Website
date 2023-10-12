@@ -6,7 +6,7 @@ export default defineTheme({
       secondary: {
         color: {
           static: {
-            initial: '#000',
+            initial: '{color.gray.900}',
             dark: '#ADA9A4'
           }
         }
