@@ -4,6 +4,7 @@ export default defineAppConfig({
 		description: 'BSA Troop 27 Website',
 		image: 't27_patch.png',
 		url: 'https://www.bsatroop27.us/',
+		titleTemplate: 'BSA Troop 27 - %s',
 
 		aside: {
 			level: 0,
@@ -20,7 +21,7 @@ export default defineAppConfig({
 
 		header: {
 			logo: false,
-			showLinkIcon: true,
+			showLinkIcon: false,
 			exclude: [],
 			fluid: true,
 			title: 'BSA Troop 27'
@@ -35,8 +36,7 @@ export default defineAppConfig({
 			textLinks: [],
 			iconLinks: [],
 			fluid: false
-		},
+		}
 
-		titleTemplate: 'BSA Troop 27'
 	},
 })

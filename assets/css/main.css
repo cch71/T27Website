@@ -5,3 +5,12 @@ body {
 .docs-prev-next {
   visibility: hidden;
 }
+
+.docs-aside-tree span {
+  color: black;
+  font-weight: normal;
+}
+
+.docs-aside-tree .router-link-active span {
+  font-weight: bold;
+}
