@@ -11,6 +11,11 @@ body {
   font-weight: normal;
 }
 
+.docs-aside-tree span:hover {
+  color: #1ad6ff;
+}
+
 .docs-aside-tree .router-link-active span {
   font-weight: bold;
+  color: #1ad6ff;
 }
