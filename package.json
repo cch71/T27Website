@@ -13,12 +13,10 @@
     "@nuxt-themes/docus": "latest",
     "@nuxt/devtools": "^0.8.5",
     "@nuxt/eslint-config": "^0.2.0",
-    "@nuxtjs/plausible": "^0.2.3",
+    "@nuxtjs/robots": "^3.0.0",
     "@types/node": "^20.8.2",
     "eslint": "^8.50.0",
-    "nuxt": "^3.8.1"
-  },
-  "dependencies": {
-    "@nuxtjs/robots": "^3.0.0"
+    "nuxt": "^3.8.1",
+    "nuxt-simple-sitemap": "^4.1.3"
   }
 }

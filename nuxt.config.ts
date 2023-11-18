@@ -8,10 +8,14 @@ export default defineNuxtConfig({
 	colorMode: {
 		preference: "light"
 	},
+	site: {
+		url: 'https://www.bsatroop27.us/'	
+	},
 	modules: [
 		// Remove it if you don't use Plausible analytics
 		// https://github.com/nuxt-modules/plausible
-		'@nuxtjs/plausible',
-		'@nuxtjs/robots'
+		// '@nuxtjs/plausible',
+		'@nuxtjs/robots',
+		'nuxt-simple-sitemap'
 	]
 })
