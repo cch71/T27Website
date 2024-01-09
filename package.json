@@ -16,7 +16,7 @@
     "@nuxtjs/robots": "^3.0.0",
     "@types/node": "^20.8.2",
     "eslint": "^8.50.0",
-    "nuxt": "^3.8.1",
+    "nuxt": "^3.9.1",
     "nuxt-simple-sitemap": "^4.1.3"
   }
 }
