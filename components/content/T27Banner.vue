@@ -69,7 +69,7 @@ css({
         px: '{space.8}',
       },
       '.description': {
-        backgroundColor: 'lightgray',
+        backgroundColor: 'darkslategray',
         background: 'rgba(0, 0, 0, 0.1)',
         borderRadius: '10px',
         padding: '5px',
