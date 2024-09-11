@@ -1,2 +1,5 @@
+# START nuxt-robots (indexable)
 User-agent: *
-Disallow: 
+
+Sitemap: https://www.bsatroop27.us/sitemap.xml
+# END nuxt-robots
