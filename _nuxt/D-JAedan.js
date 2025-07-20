@@ -1,0 +1,1 @@
+import{k as a,c as r,e as t,a0 as n}from"./PQLF4iNN.js";const o={};function s(e,c){return t(),r("ul",null,[n(e.$slots,"default",{},void 0,!0)])}const l=a(o,[["render",s],["__scopeId","data-v-5bd61aad"]]);export{l as default};
