@@ -1,0 +1,32 @@
+---
+title: Patrol Leader
+weight: 50
+type: page
+params:
+  images:
+    - /images/youthleadership/PL.jpg
+---
+
+#### Job Description
+
+Patrol leaders carry out planning, leading, and evaluating patrol meetings and activities,
+and assure patrols are prepared to participate in all troop activities. They keep their patrol
+intact so they can work together and share responsibilities to get things done.
+
+#### Reports to
+
+Senior Patrol Leader
+
+#### Duties
+
+- plans and leads patrol meetings and activities
+- keeps patrol members informed
+- assigns each patrol member a specific duty
+- represents his patrol at all patrol leaders’ council meetings and the annual program planning conference
+- prepares the patrol to participate in all troop activities
+- works with other troop leaders to make the troop run well
+- knows the abilities of each patrol member
+- sets a good example
+- wears the Scout uniform correctly
+- lives by the Scout Oath and Law
+- shows and develops patrol spirit

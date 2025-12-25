@@ -1,0 +1,11 @@
+{{- $title := partial "title.gotmpl" (dict "page" .) }}
+
+<div class="t27banner">
+    <h1 id="{{ $title | plainify | anchorize }}" class="title">{{ $title }}</h1>
+
+    {{- $desc := .Description | default .Site.Params.description -}} {{- if
+    $desc }}
+    <p class="description">{{ $desc }}</p>
+    {{ end }}
+</div>
+

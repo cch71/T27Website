@@ -1,0 +1,188 @@
+@import "theme-relearn-light.css";
+
+:root {
+    --PRIMARY-color: rgb(162 132 101);
+    --CODE-BLOCK-color: rgba(
+        226,
+        228,
+        229,
+        1
+    ); /* fallback color for code text */
+    --CODE-BLOCK-BG-color: rgba(
+        40,
+        42,
+        54,
+        1
+    ); /* fallback color for code background */
+}
+
+table {
+    border-width: 1px;
+    overflow: hidden;
+    border-collapse: unset;
+    border-radius: 10px;
+}
+
+details {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.eagles_honor_role table {
+    border-collapse: collapse;
+    background: transparent;
+}
+
+.eagles_honor_role tr td {
+    border-width: 0;
+}
+
+
+
+.recharter_info {
+    border-collapse: collapse;
+    background: transparent;
+}
+
+.recharter_info tr td {
+    vertical-align: top;
+    border-width: 0;
+}
+
+/*
+.eagles_list thead {
+    background-color: var(--INTERNAL-BOX-PRIMARY-color);
+    background-color: var(--VARIABLE-BOX-color);
+    background-color: var(--VARIABLE-BOX-BG-color)
+}
+*/
+/*
+.eagles_list thead > tr > th{
+    background-color: var(--INTERNAL-BOX-PRIMARY-color);
+    background-color: var(--VARIABLE-BOX-color);
+}
+*/
+
+
+.awards {
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 2rem;
+}
+.awards li {
+      list-style-type: none;
+}
+
+#camping_memories .card-container {
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+}
+
+
+.t27banner {
+    border-radius: 10px;
+    background-image: url("/images/t27_header.png");
+    background-size: contain;
+    width: -webkit-fill-available;
+    pointer-events: none;
+    padding: {space.5} 0;
+    margin-bottom: {space.5};
+    display: grid;
+    gap: {space.16};
+}
+
+.t27banner .title {
+  color: {elements.text.primary.color.static};
+  font-weight: {fontWeight.bolder};
+  letter-spacing: {letterSpacing.tight};
+  text-align: center;
+  font-size: {text.3xl.fontSize};
+  line-height: {text.3xl.lineHeight};
+  margin-bottom: {space.4};
+  padding-left: {space.8};
+  padding-right: {space.8};
+}
+
+.t27banner .description {
+  background-color: darkslategray;
+  background: rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 0 10px;
+  margin-bottom: {space.8};
+  font-size: {text.lg.fontSize};
+  line-height: {text.lg.lineHeight};
+  text-align: center;
+  color: {elements.text.secondary.color.static};
+  padding-left: {space.2};
+  padding-right: {space.2};
+}
+
+
+.card-image img {
+    width: fit-content;
+}
+
+.card {
+    min-height: 0;
+}
+
+
+/* ===== Responsive Breakpoints ===== */
+@media screen and (max-width: 1024px) {
+    #camping_memories .card-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    #scout_oath_and_law .card-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 640px) {
+    
+    #camping_memories .card-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    #scout_oath_and_law .card-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .eagles_list table tr > th:nth-last-child(-n + 3),
+    .eagles_list table tr > td:nth-last-child(-n + 3) {
+        display: none; /* Hides the elements and removes them from the document flow */
+    }
+}
+
+/* SM breakpoint */
+@media screen and (max-width: 640px) {
+  .t27banner {
+    padding: {space.5} 0;
+  }
+}
+
+/* LG breakpoint */
+@media screen and (max-width: 1024px) {
+  .t27banner {
+    padding: {space.5} 0;
+  }
+
+  .t27banner .layout {
+    gap: {space.8};
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .t27banner {
+    grid-column: span 3 / span 3;
+  }
+
+  .t27banner .announce {
+    text-align: center;
+  }
+
+  .t27banner .description {
+    text-align: center;
+  }
+}
+
+

@@ -1,0 +1,163 @@
+---
+title: Required and Optional Adult Training
+weight: 50
+type: page
+---
+
+### BSA Learn Center
+
+1. Go to [My Scouting](https://my.scouting.org?target=_blank)
+2. On the Opening page of my.scouting.org, click on the "My Training"
+3. Take training for Scouts BSA and Position Specific Training
+
+**_If you have any questions talk to the troop training coordinator or scoutmaster_**
+
+### Adult Participants required training for uniform shirt
+
+- BSA Youth Protection Training
+- Ethics in Ministry Training
+
+### Committee Members required training for “Trained” patch
+
+- All the above and,
+- Scouts BSA - Troop Committee Training (my.scouting.org)
+
+### Scout Master & Assistance Scout Master’s required training for uniform shirt w/“Trained” patch
+
+- All from Adult Participants and...
+- Scouts BSA - Scoutmaster Training my.scouting.org)
+- Introduction to Outdoor Leader Skills
+- Safe Swim Defense
+- Safety Afloat
+- Leave No Trace Camping
+- Climb on Safely
+
+### Additional optional training for all adults
+
+- All the above and,
+- Wood badge
+- Powder Horn
+- Wilderness First Aid
+- CPR
+- Life Guard Training
+
+### Other supplemental training
+
+Troop 27 encourages at least one (1) adult per family to become actively involved
+and participate in the development of the scouts in our troop. A “best effort”
+attempt to complete required adult “participant” training within 3 months of
+becoming active in troop activities is expected. ASM and SM’s are expected to
+complete all required training within 6 months of position assignments. To get
+credit for taking a course, students must provide proof of completed training to
+the Troop 27 Advancement Chairperson. Following is description of each course.
+
+#### YPT (Required)
+
+BSA Youth Protection Training is required for all adults participating in the scout
+program in any capacity. It covers the BSA's Youth Protection policies, kinds of
+abuse, signs of abuse, how to respond to disclosure of abuse, and proper reporting
+procedures. It does so by taking you through situations that require choices and
+produce consequences. Successful completion of this course requires an 80 percent
+or higher score.
+
+- Where: online at [Adult Training](https://scouting.org/Training/Adult.aspx?target=_blank)
+- When: anytime
+
+#### Ethics in Ministry Training (EIM)
+
+The “Protecting God’s Children” workshop is required by the Catholic Diocese of Austin’s
+[Ethics and Integrity in Ministry policies](https://www.austindiocese.org/department_home.php?id=9&target=_blank) for
+any adults working with youth. As part of EIM, you must also complete an
+application so that a criminal record check can be done. Please use the “eAppsDB”
+application also found on
+the [Diocese of Austin website](https://www.eappsdb.com/login.asp?orgz_key=4&target=_blank) to register.
+
+- Where: varies, see text
+- When: varies, see text
+
+#### Introduction to Outdoor Leadership Skills (IOLS)
+
+IOLS is a hands-on training program to give adult leaders the practical outdoor
+skills they need to lead Scouts in the outdoors. Imagine having hands-on knowledge
+about setting up a campsite, pitching a tent, hiking, outdoor cooking – all the
+skills necessary to see the outdoor program of the Boys Scouts of America come to
+life. See the districts’ website for details on where and when this training is
+offered. You can find more info on the next class at your district website.
+
+- Where: varies, see text
+- When: varies, see text
+
+#### Safe Swim Defense
+
+Safe Swim Defence is a basic safety course to give leaders guidance for activities
+in and around water activities. Before a BSA group may engage in swimming activities
+of any kind, a minimum of one adult leader must complete Safe Swim Defense training,
+have a commitment card (No. 34243) with them, and agree to use the eight defenses
+in this plan.
+
+- Where: [Adult Training](https://scouting.org/Training/Adult.aspx?target=_blank)
+- When: anytime
+
+#### Safety Afloat
+
+Safety Afloat has been developed to promote boating and boating safety and to set
+standards for safe unit activity afloat. Before a BSA group may engage in an excursion,
+expedition, or trip on the water (canoe, raft, sailboat, motorboat, rowboat, tube,
+or other craft), adult leaders for such activity must complete Safety Afloat Training,
+have a commitment card with them, and be dedicated to full compliance with all nine
+points of Safety Afloat.
+
+- Where: [Adult Training](https://scouting.org/Training/Adult.aspx?target=_blank)
+- When: anytime
+
+#### Leave No Trace
+
+Leave No Trace training is a nationally recognized outdoor skills and ethics
+education program designed to educate participants in the skills of hiking
+and camping with minimum impact to the environment. Consult the Capital Area
+Council scout office for opportunities for training.
+
+- Where: varies, see text
+- When: varies, see text
+
+#### Climb On Safely
+
+Climb on Safely is the Boy Scouts of America's recommended procedure for
+organizing BSA climbing/rappelling activities at a natural site or a
+specifically designed facility such as a climbing wall or tower. Training is
+typically by arrangement or through various scouting venues, including by
+special arrangement with Troop 27 climbing instructors.
+
+- Where: [Adult Training](https://scouting.org/Training/Adult.aspx?target=_blank)
+- When: varies, see text
+
+#### Wilderness First Aid
+
+Wilderness First Aid is an emergency first aid basics with special emphasis on
+providing care in wilderness settings where first responders may be hours or days
+away. Students are trained using lecture and practice skills, including realistic
+real-time simulation of emergency situations. Instructor situational observation
+and a final exam are used to determine pass/fail for this course. Consult the
+Capital Area Council website for dates for the Spring and Fall sessions.
+
+- Where: varies, Lost Pines Scout Reservation(LSPR)
+- When: varies
+
+### Supplemental Training Modules
+
+Supplemental training modules are designed to provide orientation beyond the basic
+training offered in New Leader Essentials and leader-specific training. Each module
+is a unit of training that can be used as an outline for a group, for personal coaching,
+or for self-study. Most of the outlines should require about an hour to complete.
+Consider each unit of study to be an introduction to the subject. Scouters are welcome
+to download subjects that are of interest for personal or unit use. There are no training
+credits associated with the completion of these units of study. Additional training
+units are being developed.
+
+### PowerPoint Presentations
+
+The following items are available in Microsoft PowerPoint (PPT) format:
+
+[Supporting Scouts With ADHD](https://filestore.scouting.org/filestore/ppt/ADHDTips.ppt?target=_blank)
+
+[National Advanced Youth Leadership Experience (NAYLE)](https://www.scouting.org/programs/scouts-bsa/troop-resources/nayle/?target=_blank)
