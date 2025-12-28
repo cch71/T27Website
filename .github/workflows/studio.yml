@@ -1,4 +1,4 @@
-name: 🚀 Deploy Craig's Creations Website
+name: 🚀 Deploy BSA T27 Website
 
 on:
   # Runs on pushes targeting the default branch
@@ -79,7 +79,7 @@ jobs:
           name: build-artifacts
           path: public
       - name: Add .nojekyll file
-        run: touch .output/public/.nojekyll
+        run: touch ./public/.nojekyll
 
         # Deployment job
       - name: Deploy 🚀
