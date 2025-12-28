@@ -17,7 +17,7 @@ main:
 > challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
-> [Winter Camp Signup](https://forms.gle/QCbZ4T5c4XH9uijV70?target=_blank)
+>
 
 > [!primary] Calendar of Events
 > [Click here to go to the calendar](https://calendar.google.com/calendar/embed?src=bsatroop27webmaster%40gmail.com&ctz=America%2FChicago&target=_blank)
