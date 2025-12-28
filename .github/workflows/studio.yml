@@ -80,9 +80,12 @@ jobs:
           path: public
       - name: Add .nojekyll file
         run: touch ./public/.nojekyll
+      - name: Trust the GITHUB_WORKSPACE directory
+        run: git config --global --add safe.directory $GITHUB_WORKSPACE
 
         # Deployment job
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
+          branch: gh-pages
           folder: ./public
