@@ -134,7 +134,7 @@ type: page
 ## Adult Spirit Awards
 
 {{% notice style="primary" title="Scout Spirit" %}}
-Troop 27’s Spirit Award recognizes adults who provide sustained superior
+Troop 27's Spirit Award recognizes adults who provide sustained superior
 performance to our Troop through volunteerism and an indomitable display of
 “can-do” spirit.
 
@@ -228,11 +228,11 @@ June 2006 - Camp Tom Hale, Oklahoma
 
 {{% /notice %}}
 
-{{% notice style="primary" title="BSA Lifegaurd" %}}
+{{% notice style="primary" title="BSA Lifeguard" %}}
 _Who will be the first?_
 
 Burley Boatsman
-A multi-event competion at Camp Fiesta Island - San Diego, CA
+A multi-event competition at Camp Fiesta Island - San Diego, CA
 
 July 2005
 
@@ -257,7 +257,7 @@ Camp Tom Hale, Oklahoma June 2006
 
 To earn this award each Scout had to meet three challenging criteria:
 
-- Complete a ‘Nature’ related merit badge.
+- Complete a nature related merit badge.
 - Complete a service project assigned by the camp counselor
 - Complete the hike to the top of Blue Mountain .
 

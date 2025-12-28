@@ -15,7 +15,7 @@ will give one warning. If attendance does not improve, the scout may be removed 
 
 ### Patrol Leaders Council
 
-The PLC, not the adult leaders, is responsible for planning and conducting the troop’s activities.
+The PLC, not the adult leaders, is responsible for planning and conducting the troop's activities.
 The PLC is composed of the following voting members: Senior Patrol Leader, Assistant Senior Patrol
 Leader(s), Patrol Leaders and Troop Guide. At its monthly meetings, the PLC organizes and assigns
 activity responsibilities for weekly troop meetings. The troop committee interacts with the PLC

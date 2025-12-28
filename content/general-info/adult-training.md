@@ -20,12 +20,12 @@ type: page
 ### Committee Members required training for “Trained” patch
 
 - All the above and,
-- Scouts BSA - Troop Committee Training (my.scouting.org)
+- Scouts BSA - Troop Committee Training [my.scouting.org](https://my.scouting.org)
 
 ### Scout Master & Assistance Scout Master’s required training for uniform shirt w/“Trained” patch
 
 - All from Adult Participants and...
-- Scouts BSA - Scoutmaster Training my.scouting.org)
+- Scouts BSA - Scoutmaster Training [my.scouting.org](https://my.scouting.org)
 - Introduction to Outdoor Leader Skills
 - Safe Swim Defense
 - Safety Afloat
@@ -46,7 +46,7 @@ type: page
 Troop 27 encourages at least one (1) adult per family to become actively involved
 and participate in the development of the scouts in our troop. A “best effort”
 attempt to complete required adult “participant” training within 3 months of
-becoming active in troop activities is expected. ASM and SM’s are expected to
+becoming active in troop activities is expected. ASM and SM's are expected to
 complete all required training within 6 months of position assignments. To get
 credit for taking a course, students must provide proof of completed training to
 the Troop 27 Advancement Chairperson. Following is description of each course.
@@ -65,7 +65,7 @@ or higher score.
 
 #### Ethics in Ministry Training (EIM)
 
-The “Protecting God’s Children” workshop is required by the Catholic Diocese of Austin’s
+The “Protecting God's Children” workshop is required by the Catholic Diocese of Austin's
 [Ethics and Integrity in Ministry policies](https://www.austindiocese.org/department_home.php?id=9&target=_blank) for
 any adults working with youth. As part of EIM, you must also complete an
 application so that a criminal record check can be done. Please use the “eAppsDB”
@@ -89,7 +89,7 @@ offered. You can find more info on the next class at your district website.
 
 #### Safe Swim Defense
 
-Safe Swim Defence is a basic safety course to give leaders guidance for activities
+Safe Swim Defense is a basic safety course to give leaders guidance for activities
 in and around water activities. Before a BSA group may engage in swimming activities
 of any kind, a minimum of one adult leader must complete Safe Swim Defense training,
 have a commitment card (No. 34243) with them, and agree to use the eight defenses

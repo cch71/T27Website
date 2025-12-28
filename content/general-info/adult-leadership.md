@@ -9,9 +9,9 @@ type: page
 
 ### Troop Committee
 
-The Troop Committee is the troop’s board of directors and supports the troop program.
+The Troop Committee is the troop's board of directors and supports the troop program.
 
-The Troop Committee’s responsibilities are:
+The Troop Committee's responsibilities are:
 
 - To ensure that quality adult leadership is recruited and trained.
 - To provide adequate meeting facilities.

@@ -19,10 +19,10 @@ type: page
 3. Adult leaders, complete and return the [Adult Application](https://www.scouting.org/resources/forms/?target=_blank)
    form under "Membership Applications" section.
    This is transmitted to the Capitol Area Council and is used for a criminal background checks.
-4. Log in to Troopmaster and update yours and your scout’s information. (If you haven’t
+4. Log in to Troopmaster and update yours and your scout's information. (If you haven't
    received the invite yet, speak with an adult member of the Troop.)
 5. Complete and return an [Annual Health and Medical Record](https://www.scouting.org/health-and-safety/ahmr/?target=_blank)
-   Part A and B(adults and youth) with registration.
+   Part A and B (adults and youth) with registration.
 6. Pay registration fee for each scout: contact the Treasurer for amount
 
 - Scouts joining from Webelos/Arrow of Light, fee includes:
@@ -39,7 +39,7 @@ type: page
   - BSA Registration fee
   - Troop 27 segments, awards, and advancements
 
-- Subscription to Boy’s Life Magazine (additional and optional)
+- Subscription to Boy's Life Magazine (additional and optional)
 
 7. Pay registration fee for each adult: contact the Treasurer for amount
 

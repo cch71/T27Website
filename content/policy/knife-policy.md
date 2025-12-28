@@ -4,7 +4,7 @@ weight: 130
 type: page
 ---
 
-After earning the BSA Totin’ Chip, a Scout may carry a knife/knives consistent with
+After earning the BSA Totin' Chip, a Scout may carry a knife/knives consistent with
 National, State, and Council policies, except for the following:
 
 > [!IMPORTANT]

@@ -9,7 +9,7 @@ type: page
 > Prohibited Items for boys at any scouting activity
 >
 > - Cellphones
-> - Radio’s, TV’s or electronic games
+> - Radio's, TV's or electronic games
 > - Aerosol products
 > - Lighters or tobacco products
 > - Alcohol or illegal substances

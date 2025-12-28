@@ -34,7 +34,7 @@ params:
 > - Respect for adults
 > - Respect for each other and always be willing to help each other
 > - Respect for the American flag and traditions
-> - Respect for your uniform – always worn properly with SHIRTS always tucked in
+> - Respect for your uniform. Always worn properly with SHIRTS always tucked in
 > - "Yes sir, Yes mam!" Always use with adults, not just during troop functions
 > - Be proud to be a scout with ultimate goal of attaining Eagle Scout rank and have fun too!
 > - Pay your own way to summer camp through troop & personal fund raising

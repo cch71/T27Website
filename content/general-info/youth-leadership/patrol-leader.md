@@ -22,7 +22,7 @@ Senior Patrol Leader
 - plans and leads patrol meetings and activities
 - keeps patrol members informed
 - assigns each patrol member a specific duty
-- represents his patrol at all patrol leaders’ council meetings and the annual program planning conference
+- represents his patrol at all patrol leaders council meetings and the annual program planning conference
 - prepares the patrol to participate in all troop activities
 - works with other troop leaders to make the troop run well
 - knows the abilities of each patrol member

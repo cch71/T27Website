@@ -41,7 +41,7 @@ in their Scout accounts.
 - Rechartering fees
 - Court of Honor Meal Cost
 - Training Classes (e.g. NYLT)
-- Scout’s Eagle Court of Honor Banquet expenses
+- Scout's Eagle Court of Honor Banquet expenses
 
 **_Scout Account allocations CANNOT be:_**
 

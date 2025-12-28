@@ -108,10 +108,10 @@ When ready to server, combine 1/2 cup hot water with 1/4 cup hot cocoa mix.
 Carry the following ingredients in their individual packages (scaled to feed 20)
 
 - 2 packages of 20 soft flour tortillas
-- 4 – 15 oz pouches of refried black beans
-- 2 – 16 oz packages of guacamole
-- 2 – 8 oz packages of Mexican blend cheese
-- 4 – 7 oz packages of Tyson Premium Grilled Chunk White Chicken (available online through Walmart)
+- 4 15 oz pouches of refried black beans
+- 2 16 oz packages of guacamole
+- 2 8 oz packages of Mexican blend cheese
+- 4 7 oz packages of Tyson Premium Grilled Chunk White Chicken (available online through Walmart)
 - Taco seasoning
 
 When ready to eat, put the following on each tortilla: 2 Tbsp beans, 1 Tbsp guacamole,
@@ -121,9 +121,9 @@ sprinkle of taco seasoning, 1 1/2 Tbsp cheese, 2 Tbsp chicken.
 
 Carry the following ingredients in their individual packages (scaled to feed 20)
 
-- 5 – 16 oz beef sticks
-- 4 – 12.5 oz box Triscuits
-- 20 – 2 oz Big Cheese Snack
+- 5 16 oz beef sticks
+- 4 12.5 oz box Triscuits
+- 20 2 oz Big Cheese Snack
 
 When ready to eat, divide beef sticks into 4 oz sections and distribute, distribute ~15
 Triscuits, and distribute 2 oz cheese to each person. If concerned with keeping
