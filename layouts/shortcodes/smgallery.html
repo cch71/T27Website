@@ -1,0 +1,63 @@
+{{- $baseUrl := "https://bsatroop27.smugmug.com" -}}
+{{- $path := "frame/slideshow" -}}
+{{- $params := querify 
+    "key" (.Get "key") 
+    "speed" "2" 
+    "transition"
+    "fade"
+    "autoStart" "1"
+    "captions" "0"
+    "navigation" "0"
+    "playButton" "0"
+    "randomize" "1"
+    "transitionSpeed" "1"
+    "clickable" "1"
+-}}
+{{- $fullPath := urls.JoinPath $baseUrl $path -}}
+{{- $url := printf "%s?%s" $fullPath $params -}}
+{{- $content := printf `<iframe
+    src="%s"
+    width="240"
+    height="240"
+    frameborder="no"
+    scrolling="no"
+></iframe>` $url | safeHTML -}}
+
+{{- $_hugo_config := `{ "version": 1 }` }}
+{{- $color    := (.Get "color") }}
+{{- $href     := (.Get "href") }}
+{{- $icon     := (.Get "icon") }}
+{{- $image    := (.Get "image") }}
+{{- $params   := (.Get "params") }}
+{{- $style    := (.Get "style") }}
+{{- $template := (.Get "template") }}
+{{- $title    := (.Get "title") }}
+{{- $cards := slice }}
+{{- if and .Parent (.Parent.Store.Get "cards") }}
+    {{- $cards = .Parent.Store.Get "cards" }}
+{{- end }}
+{{- $cards = $cards | append (dict
+    "color"    $color
+    "content"  $content
+    "href"     $href
+    "icon"     $icon
+    "image"    $image
+    "params"   $params
+    "style"    $style
+    "template" $template
+    "title"    $title
+) }}
+{{- if .Parent }}
+    {{- $.Parent.Store.Set "cards" $cards }}
+{{- else }}
+    {{- /* if no containing cards shortcode is present, we display this card as single */}}
+    {{- partial "shortcodes/cards.html" (dict
+        "page"     .Page
+        "color"    ""
+        "content"  $cards
+        "style"    ""
+        "template" ""
+    ) }}
+{{- end }}
+
+

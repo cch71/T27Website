@@ -1,0 +1,30 @@
+---
+title: Scribe
+weight: 110
+type: page
+params:
+  images:
+    - /images/youthleadership/Scribe.jpg
+---
+
+#### Job Description
+
+The scribe keeps the troop records. He records the activities of the patrol
+leaders' council and keeps a record of dues, advancement, and Scout
+attendance at troop meetings.
+
+#### Reports to
+
+Assistant Senior Patrol Leader
+
+#### Duties
+
+- Attends and keeps a log of patrol leaders' council meetings.
+- Records individual Scout attendance and dues payments.
+- Records individual Scout advancement progress.
+- Works with the troop committee member responsible for records and finance.
+- Sets a good example.
+- Enthusiastically wears the Scout uniform correctly.
+- Lives by the Scout Oath and Law.
+- Shows Scout spirit
+

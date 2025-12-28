@@ -1,0 +1,127 @@
+---
+title: Camping Equipment List
+weight: 60
+type: page
+---
+
+There are various gear lists available in your scout book, online, and from
+retailers such as Academy, REI, etc. Because of our mobile (backpacking)
+philosophy, weight and size should be factored into product selection. Keep
+it small and light. Pack your backpack with weight distribution in mind and
+adjust the pack for fit. Avoid hanging too many things on the outside of the
+pack. These things can get hung up or beat up in travel or when hiking.
+
+There are some activities which might require personal gear specific to the
+activity which is not included below (e.g. trekking poles, canoeing gloves,
+dry bag).
+
+## Camping Clothes
+
+|                   | **Qty [^1]** | **Item [^2]**       | **Description**                       |
+| ----------------- | ------------ | ------------------- | ------------------------------------- |
+| general           | 2            | Pants               | Olive green, long, zip-off, synthetic |
+| "                 | 2 - 3        | Shirts              | Class B                               |
+| "                 | 1            | Shirt               | Class A, long sleeve, synthetic       |
+| "                 | 3 - 4        | Underwear           | Synthetic                             |
+| "                 | 3 - 4        | Socks               | Wool, synthetic, or blend             |
+| "                 | 1            | Boots               |                                       |
+| "                 | 1            | Belt                |                                       |
+| "                 | 1            | Hat                 | Official Troop 27 red hat             |
+| "                 | 1            | Watch               | Wristwatch; ideally analog            |
+| "                 | 1            | Pen                 |                                       |
+| "                 | 1            | Rain jacket         | Rain and wind                         |
+| "                 | 1            | Rain pants          | Rain and wind                         |
+| winter [^3], [^4] | 1            | Jacket              | Fleece or synthetic insulated         |
+| "                 | 1            | Hat                 | Skull cap; wool, synthetic, or blend  |
+| "                 | 1            | Base layer – top    | Insulated, synthetic                  |
+| "                 | 1            | Base layer – bottom | Insulated, synthetic                  |
+| "                 | 1            | Neck gaiter / buff  | Wool, synthetic, or blend             |
+| "                 | 1            | Gloves              | Wool, synthetic, or blend             |
+| optional          | 1            | Sunglasses          |                                       |
+| "                 | 1            | Bathing suit        |                                       |
+| "                 | 1            | Shower shoes        | Flip flops or sandals                 |
+| "                 | 1            | Camp shoes          | Close toed                            |
+
+[^1]: Quantity includes what one is wearing upon arrival at muster.
+
+[^2]: No Cotton!
+
+[^3]: Dress in layers for warmth.
+
+[^4]: Prolonged exposure makes cool conditions feel even colder. It's better to have it and not wear it, than to need it and not have it.
+
+## Basics
+
+| **Qty** | **Item**                                   | **Description**                        |
+| ------- | ------------------------------------------ | -------------------------------------- |
+| 1       | Scout Handbook                             |                                        |
+| 1       | [knife (see policy)](/policy/knife-policy) |                                        |
+| 1       | Head lamp / flashlight                     |                                        |
+| 1 - 2   | Water bottle                               |                                        |
+| 1       | Compass                                    |                                        |
+| 1       | Notebook                                   |                                        |
+| 1       | Rope                                       | Ideally, 3/8" and ~5 ft. long          |
+| 1       | Clothes line                               |                                        |
+| \>12    | Matches                                    | Protected from water                   |
+| 1 - 3   | Alternate fire starter                     | e.g. magnesium striker                 |
+| 1       | First aid kit                              |                                        |
+| 1       | Sunscreen                                  |                                        |
+| 1       | Bug repellent                              |                                        |
+| \>3     | Plastic bags                               | Assorted sizes: quart, gallon, 13 gal. |
+| 1       | Camp chair                                 |                                        |
+| 1       | Day pack                                   |                                        |
+
+## Toiletries
+
+| **Qty** | **Item**            | **Description**                       |
+| ------- | ------------------- | ------------------------------------- |
+| 1       | Toothbrush          |                                       |
+| 1       | Toothpaste          |                                       |
+| 1       | Deodorant           |                                       |
+| 1       | Soap                |                                       |
+| 1       | Camp towel          |                                       |
+| 1       | Toilet paper        | Partial roll, protected from water    |
+| 1       | Hand sanitizer      |                                       |
+| 1       | Chapstick           |                                       |
+| 1       | Glasses / contacts  |                                       |
+| 1       | Tissues             |                                       |
+| 1       | Fingernail clippers |                                       |
+|         | Prescription meds   | Must be in possession of adult leader |
+
+## Sleep System
+
+| **Qty** | **Item**             | **Description**                          |
+| ------- | -------------------- | ---------------------------------------- |
+| 1       | Sleeping bag – mummy | Rated 25°F or lower; down or synthetic   |
+| 1       | Sleeping pad         | Closed cell foam or insulated inflatable |
+| 1       | Sleeping bag liner   | Helps keep bag clean; can add insulation |
+| 1       | Pillow               | Optional                                 |
+| 1       | Pajamas              | Optional                                 |
+| 1       | Sleep socks          | Optional                                 |
+
+## Cooking
+
+| **Qty** | **Item**         | **Description**            |
+| ------- | ---------------- | -------------------------- |
+| 1       | Plate / bowl     |                            |
+| 1       | Utensils / spork |                            |
+| 1       | Pot              |                            |
+| 1       | Stove            | Backpacking canister stove |
+| 1       | Fuel             | Isobutane-propane          |
+| 1       | Dish soap        | e.g. Camp Suds             |
+| Food    |                  |                            |
+| 1       | Seasoning        | Optional                   |
+
+## Tent
+
+| **Qty** | **Item**     | **Description**                      |
+| ------- | ------------ | ------------------------------------ |
+| 1       | Tent         | 2-person, freestanding, full rainfly |
+| 1       | Ground cloth | Footprint or tarp                    |
+
+## Backpack
+
+| **Qty** | **Item**        | **Description** |
+| ------- | --------------- | --------------- |
+| 1       | Backpack        | 60 to 80 liters |
+| 1       | Pack rain cover | Optional        |

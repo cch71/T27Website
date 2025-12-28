@@ -1,0 +1,114 @@
+---
+title: Adult Leadership
+weight: 30
+type: page
+---
+
+> [!IMPORTANT]
+> All volunteers are expected to complete Youth Protection training within 90 days of assuming a leadership position.
+
+### Troop Committee
+
+The Troop Committee is the troop’s board of directors and supports the troop program.
+
+The Troop Committee’s responsibilities are:
+
+- To ensure that quality adult leadership is recruited and trained.
+- To provide adequate meeting facilities.
+- To advise the Scoutmaster on policies relating to Boy Scouting and the Chartered Organization.
+- To support leaders in carrying out the program.
+- To oversee finances, ensure that there are adequate funds and make disbursements in line with the approved budget plan.
+- To obtain, maintain and properly care for troop property.
+- To ensure that the troop has an outdoor program. (minimum 10 days and nights per year)
+- To serve on boards of review and courts of honor.
+- To support the Scoutmaster in working with individual boys and problems that may affect the overall troop program.
+- To provide for the special needs and assistance some boys may require.
+- To help with the Friends of Scouting Campaign.
+- To assist the Scoutmaster with handling boy behavioral problems.
+
+_The Troop Committee is composed of the following voting members: Committee Chair,
+Secretary, Treasurer, Charter Organization Rep, Chaplain, Advancement Coordinator,
+Outdoor Activities Coordinator, Training Coordinator, Quartermaster, and Historian._
+
+#### Current Committee Members
+
+| Role                                | Name                                             |
+| :---------------------------------- | :----------------------------------------------- |
+| Charter Organization Representative | Jen Kendrick (<charterorgrep@bsatroop27.us>)     |
+| Committee Chair                     | Jason Wright (<committeechair@bsatroop27.us>)    |
+| Secretary                           | Lilith Vander Griend                             |
+| Treasurer                           | Vinod Daggolu (<treasurer@bsatroop27.us>)        |
+| Advancement                         | Osiris Rosales (<advancement@bsatroop27.us>)     |
+| Membership                          | Astrid/Jaime Suarez (<membership@bsatroop27.us>) |
+| Quartermaster (Uniforms)            | Crystal Cherico (<quartermaster@bsatroop27.us>)  |
+| Quartermaster (Supplies)            | John Skinner (<quartermaster@bsatroop27.us>)     |
+| Fundraising                         | Louis Strickland (<fundraiser@bsatroop27.us>)    |
+| Training                            | Laura Ines Suarez                                |
+| Outdoor/Activities                  | Michael Spence                                   |
+| Shooting Sports Coordinator         | Richard Cherico                                  |
+| Climbing Sports Coordinator         | **_OPEN_**                                       |
+| Water Sports Coordinator            | Ricky Salinas                                    |
+| Summer Camp                         | Crystal Cherico                                  |
+| High Adventure                      | Crystal Cherico                                  |
+| Health Records                      | Jaime Suarez                                     |
+| Friends of Scouting                 | **_OPEN_**                                       |
+| Just Because Champion               | **_OPEN_**                                       |
+| Chaplain                            | David Kendrick                                   |
+| Historian                           | Astrid Quiroga                                   |
+| Hospitality Coordinator             | Maggie Salinas                                   |
+| Outreach / Recruiting               | Jamie Kail (<webelosinfo@bsatroop27.us>)         |
+| Eagle Scout Process Adviser         | Christof Hamm                                    |
+| CPR/AED/First Aid Class Coordinator | Bill Ansley / Craig Hamilton                     |
+| Webmaster                           | Craig Hamilton (<webmaster@bsatroop27.us>)       |
+
+### The Scoutmaster
+
+Is the adult responsible for working directly with the Scouts to help them create the
+program for the troop. The Scoutmaster trains boy leaders to run the troop by
+providing direction, coaching, and support.
+
+- Trains and guides boy leaders.
+- Works with other responsible adults to bring Scouting to boys.
+- Uses the methods of Scouting to achieve the aims of Scouting.
+- Can be male or female, but must be at least 21 years of age.
+- Is appointed by the head of the chartered organization.
+
+### Assistant Scoutmasters
+
+In larger troops may be directed by the Scoutmaster to assist in skills instruction
+and adult assistance with delivering the troop program. Duties may overlap or assist
+with roles in the Troop Committee. Assistant Scoutmasters not on BSA's troop
+organizational chart may be assigned and charged for specific duties.
+
+- This is the only troop adult leader position for adults age 18-20.
+- Assist the Scoutmaster as directed.
+- Works with other responsible adults to bring Scouting to boys.
+- Uses the methods of Scouting to achieve the aims of Scouting.
+- Can be male or female, but must be at least 18 years of age.
+- Is appointed by the Scoutmaster and approved by the Troop Committee Chair.
+- Abide by the Scout Oath or Promise and the Scout Law.
+- Subscribe to the precepts of the Declaration of Religious Principle.
+
+### Current Scout Master and Assistant Scout Masters
+
+| Role                                      | Name              |
+| :---------------------------------------- | :---------------- |
+| Scoutmaster (<scoutmaster@bsatroop27.us>) | Danny Halley      |
+| Assistant Scoutmaster                     | Bill Ansley       |
+| Assistant Scoutmaster                     | Jaime Suarez      |
+| Assistant Scoutmaster                     | Chad Main         |
+| Assistant Scoutmaster                     | Derek Kirby       |
+| Assistant Scoutmaster                     | Julie Fleischmann |
+| Assistant Scoutmaster                     | Michael Spence    |
+| Assistant Scoutmaster                     | Jake Buchert      |
+
+### Scoutmaster History
+
+| Volunteer        | Dates Served           |
+| :--------------- | :--------------------- |
+| Steve Kirk       | Sep 2002 - Feb 2005    |
+| Darrell Whatley  | Mar 2005 - Sep 2008    |
+| Chuck Tully      | Sep 2008 - Dec 2012    |
+| Craig Davidson   | Jan 2013 - Sep 2014    |
+| Bill Ansley      | Oct 2014 - Feb 2025    |
+| **Danny Halley** | **Mar 2025 - Present** |

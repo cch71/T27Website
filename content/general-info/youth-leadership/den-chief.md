@@ -1,0 +1,31 @@
+---
+title: Den Chief
+weight: 150
+type: page
+params:
+  images:
+    - /images/youthleadership/DenChief.jpg
+---
+
+#### Job Description
+
+The den chief works with the Cub Scouts, Webelos Scouts and den leaders in the Cub Scout pack.
+
+#### Reports to
+
+The den leader in the pack and the assistant Scoutmaster for the new Scout patrol in the troop.
+
+#### Duties
+
+- Knows the purposes of Cub Scouting.
+- Helps Cub Scouts advance through Cub Scout ranks.
+- Encourages Cub Scouts to join a Boy Scout troop upon graduation.
+- Assists with activities in the den meetings.
+- Is a friend to the boys in the den.
+- Helps out at weekly den meetings and monthly pack meetings.
+- Meets with adult members of the den, pack and troop as necessary.
+- Sets a good example.
+- Enthusiastically wears the Scout uniform correctly.
+- Lives by the Scout Oath and Law.
+- Shows Scout spirit.
+

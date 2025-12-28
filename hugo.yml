@@ -1,0 +1,40 @@
+baseURL: https://www.bsatroop27.us/
+languageCode: en-us
+title: BSA Troop 27
+theme: hugo-theme-relearn
+menu:
+  shortcuts:
+    - name: <i class="fa-solid fa-camera"></i> Photo Album
+      url: "https://bsatroop27.smugmug.com/?target=_blank"
+      weight: 40
+    - name: <i class="fa-solid fa-people-roof"></i> How to Join
+      url: "/policy/joining"
+      weight: 50
+    - name: <i class="fa-solid fa-address-card"></i> Contact Us
+      url: "/about/contact-us"
+      weight: 60
+params:
+  disableHugoGeneratorInject: true
+  alwaysopen: false
+  disableNextPrev: true
+  collapsibleMenu: true
+  disableShortcutsTitle: true
+  landingPageName: <i class="fa-fw fas fa-home"></i> Home
+  themeVariant: troop27
+  logo:
+    src: /images/t27_patch.png
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+security:
+  exec:
+    allow:
+      - asciidoctor
+      - git
+      - npx
+      - go
+      - tailwindcss
+      - postcss
+      - sass
+      - dart
