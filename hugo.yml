@@ -2,6 +2,7 @@ baseURL: https://www.bsatroop27.us/
 languageCode: en-us
 title: BSA Troop 27
 theme: hugo-theme-relearn
+enableRobotsTXT: true
 menu:
   shortcuts:
     - name: <i class="fa-solid fa-camera"></i> Photo Album

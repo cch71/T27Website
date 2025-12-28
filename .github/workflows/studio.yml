@@ -28,7 +28,7 @@ jobs:
     name: 🔧 Build
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.153.2
+      HUGO_VERSION: 0.153.3
       HUGO_ENVIRONMENT: production
     steps:
       - name: Install Hugo CLI
@@ -39,6 +39,9 @@ jobs:
         run: sudo snap install dart-sass
       - name: Checkout
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+          submodules: recursive
       - name: Cache Restore
         id: cache-restore
         uses: actions/cache/restore@v5
@@ -75,16 +78,6 @@ jobs:
         with:
           name: build-artifacts
           path: public
-      # - name: Deploy
-      #   uses: jsmrcaga/action-netlify-deploy@master
-      #   with:
-      #     NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-      #     NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-      #     NETLIFY_DEPLOY_MESSAGE: "Prod deploy v${{ github.ref }}"
-      #     NETLIFY_DEPLOY_TO_PROD: true
-      #     install_command: "echo Skipping installing the dependencies"
-      #     build_command: "echo Skipping building the web files"
-      #     build_directory: public
       - name: Add .nojekyll file
         run: touch .output/public/.nojekyll
 
