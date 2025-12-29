@@ -17,7 +17,7 @@ main:
 > challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
->
+> [Arrowhead Campout Signup](https://forms.gle/LfD9257Tf1H9H9328?target=_blank)
 
 > [!primary] Calendar of Events
 > [Click here to go to the calendar](https://calendar.google.com/calendar/embed?src=bsatroop27webmaster%40gmail.com&ctz=America%2FChicago&target=_blank)
