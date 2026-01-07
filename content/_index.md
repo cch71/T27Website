@@ -10,17 +10,17 @@ main:
   padded: true
 ---
 
-> [!INFO]
-> To provide a safe and challenging learning environment for your son through the
-> methods and ideals of the Boy Scouts of America. We will build character, foster
-> friendships, and nurture citizenship through a dynamic outdoor program that
-> challenges the boys to live by the Scout Oath and Law.
-
 > [!IMPORTANT] Troop Meeting Location Change For Jan 11th
 > Troop will be meeting at: [Southwest Williamson County Regional Park](https://maps.app.goo.gl/nKtRYgtoF6aq3wh56/?target=_blank)
 > The meeting time is still the same:
 > - 3:00 for PLC
 > - 4:00 - 6:00 for the meeting
+
+> [!INFO]
+> To provide a safe and challenging learning environment for your son through the
+> methods and ideals of the Boy Scouts of America. We will build character, foster
+> friendships, and nurture citizenship through a dynamic outdoor program that
+> challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
 > [Arrowhead Campout Signup](https://forms.gle/LfD9257Tf1H9H9328?target=_blank)
