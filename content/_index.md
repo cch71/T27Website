@@ -10,6 +10,12 @@ main:
   padded: true
 ---
 
+> [!IMPORTANT] Troop Meeting Location Change For Jan 11th
+> Troop will be meeting at: [Southwest Williamson County Regional Park](https://maps.app.goo.gl/nKtRYgtoF6aq3wh56/?target=_blank)
+> The meeting time is still the same:
+> - 3:00 for PLC
+> - 4:00 - 6:00 for the meeting
+
 > [!INFO]
 > To provide a safe and challenging learning environment for your son through the
 > methods and ideals of the Boy Scouts of America. We will build character, foster
@@ -27,6 +33,7 @@ main:
 > <table class="recharter_info" > <tr> <td>
 >   Recharter Registration Payment Links
 >
+> - Zelle QR Code Payment *Preferred* ![](/images/zelle.png?width=71px&classes=left "Zelle Payment QR Code")
 > - [PayPal Payment Link for New Scouts](https://www.paypal.com/ncp/payment/GLCYCFQ2F5EM8?target=_blank)
 > - [PayPal Payment Link for Existing/Returning Scouts](https://www.paypal.com/ncp/payment/MC54TU2AXR6QS?target=_blank)
 >
