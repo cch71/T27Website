@@ -18,10 +18,13 @@ main:
 
 > [!primary] Sign-ups
 > [Arrowhead Campout Signup](https://forms.gle/LfD9257Tf1H9H9328?target=_blank)
+>
 > [Summer Camp 2026 Signup](https://docs.google.com/forms/d/e/1FAIpQLSd4Ky1J6hVSlDFqpwdGlLUDlFZa1lUI65VZDbxpwBX7aNAloA/viewform?usp=sharing&ouid=104298845074822227947&target=_blank)
+
 
 > [!primary] Calendar of Events
 > [Click here to go to the calendar](https://calendar.google.com/calendar/embed?src=bsatroop27webmaster%40gmail.com&ctz=America%2FChicago&target=_blank)
+
 
 > [!primary] Recharter / Registration
 >
