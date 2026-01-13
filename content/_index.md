@@ -10,12 +10,6 @@ main:
   padded: true
 ---
 
-> [!IMPORTANT] Troop Meeting Location Change For Jan 11th
-> Troop will be meeting at: [Southwest Williamson County Regional Park](https://maps.app.goo.gl/nKtRYgtoF6aq3wh56/?target=_blank)
-> The meeting time is still the same:
-> - 3:00 for PLC
-> - 4:00 - 6:00 for the meeting
-
 > [!INFO]
 > To provide a safe and challenging learning environment for your son through the
 > methods and ideals of the Boy Scouts of America. We will build character, foster
@@ -24,6 +18,7 @@ main:
 
 > [!primary] Sign-ups
 > [Arrowhead Campout Signup](https://forms.gle/LfD9257Tf1H9H9328?target=_blank)
+> [Summer Camp 2026 Signup](https://docs.google.com/forms/d/e/1FAIpQLSd4Ky1J6hVSlDFqpwdGlLUDlFZa1lUI65VZDbxpwBX7aNAloA/viewform?usp=sharing&ouid=104298845074822227947&target=_blank)
 
 > [!primary] Calendar of Events
 > [Click here to go to the calendar](https://calendar.google.com/calendar/embed?src=bsatroop27webmaster%40gmail.com&ctz=America%2FChicago&target=_blank)
