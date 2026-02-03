@@ -17,7 +17,7 @@ main:
 > challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
-> [Arrowhead Campout Signup](https://forms.gle/LfD9257Tf1H9H9328?target=_blank)
+> [Wilderness Survival Campout Signup](https://forms.gle/ECLrWQr1VAVGkiwN8?target=_blank)
 >
 > [Summer Camp 2026 Signup](https://docs.google.com/forms/d/e/1FAIpQLSd4Ky1J6hVSlDFqpwdGlLUDlFZa1lUI65VZDbxpwBX7aNAloA/viewform?usp=sharing&ouid=104298845074822227947&target=_blank)
 
