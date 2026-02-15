@@ -76,6 +76,6 @@ Uniform Sources:
 
 ![Sash Example](/images/uniform/sash.jpg)
 
-[For segment program info click here.](https://drive.google.com/file/d/0B1xkyyMuYqNhLWVWa2tGN2lINXc/view?usp=sharing&resourcekey=0-q6eUuXyqWuvvOX4MeOAANA&target=_blank)
+[For segment program info click here.](https://drive.google.com/file/d/1Xde_KDv88Tgon9uIFZRZxfN2bbTWCIcZ/view?usp=sharing&target=_blank)
 
-![Segment Example](/images/uniform/segment.gif)
+![Segment Example](/images/uniform/segment.jpg)
