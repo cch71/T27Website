@@ -17,7 +17,7 @@ main:
 > challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
-> [Biking Campout Signup](https://forms.gle/utpJK7jShDSYpkjMA?target=_blank)
+> [April Bamboo Campout Signup](https://forms.gle/Z76n3ts5yJtVPLcj9?target=_blank)
 >
 > [Summer Camp 2026 Signup](https://docs.google.com/forms/d/e/1FAIpQLSd4Ky1J6hVSlDFqpwdGlLUDlFZa1lUI65VZDbxpwBX7aNAloA/viewform?usp=sharing&ouid=104298845074822227947&target=_blank)
 
