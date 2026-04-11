@@ -31,7 +31,7 @@ main:
 > <table class="recharter_info" > <tr> <td>
 >   Recharter Registration Payment Links
 >
-> - Zelle QR Code Payment *Preferred* ![](/images/zelle.png?width=250px&classes=left "Zelle Payment QR Code")
+> - Zelle QR Code Payment *Preferred* ![](/images/zelle.png?width=150px&classes=left "Zelle Payment QR Code")
 > - [PayPal Payment Link for New Scouts](https://www.paypal.com/ncp/payment/GLCYCFQ2F5EM8?target=_blank)
 > - [PayPal Payment Link for Existing/Returning Scouts](https://www.paypal.com/ncp/payment/MC54TU2AXR6QS?target=_blank)
 >
