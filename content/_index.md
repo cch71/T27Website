@@ -17,7 +17,7 @@ main:
 > challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
->
+> [May 15th Shooting Sports Campout](https://forms.gle/44XsSXAZjxobFRw36?target=_blank)
 
 
 > [!primary] Calendar of Events
