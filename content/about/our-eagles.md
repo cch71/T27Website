@@ -133,5 +133,6 @@ type: page
 | 112    | Parv Gupta           | 11-06-24 | 27    | Chisholm Trail | Capitol Area |          |
 | 113    | Harper Fleischmann   | 08-04-25 | 27    | Chisholm Trail | Capitol Area |          |
 | 114    | Ryan Kendrick        | 12-02-25 | 27    | Chisholm Trail | Capitol Area |          |
+| 115    | Emmett Halley        | 07-09-26 | 27    | Chisholm Trail | Capitol Area |          |
 
 </div>
