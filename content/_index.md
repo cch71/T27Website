@@ -45,8 +45,8 @@ main:
 
 <div id="camping_memories">
 {{< cards >}}
-{{% smgallery title="Camp Daniel Boone" key="rG84zh" %}}
-{{% smgallery title="Northern Tier" key="vHqkPN" %}}
+{{% smgallery title="Camp Alexander" key="wQ7p23" %}}
+{{% smgallery title="Scuba High Adventure" key="tcZg9f" %}}
 {{< /cards >}}
 </div>
 {{% /notice %}}
