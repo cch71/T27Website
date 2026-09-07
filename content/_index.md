@@ -17,7 +17,7 @@ main:
 > challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
-> [Aug 7th Watersports Campout](https://forms.gle/Dnkgtagu1yoRHsLR8?target=_blank)
+> [Sept 25th Troop Olympics Campout](https://forms.gle/AMXmjLV39TDdCprT7?target=_blank)
 
 
 > [!primary] Calendar of Events
