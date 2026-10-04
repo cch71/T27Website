@@ -17,7 +17,7 @@ main:
 > challenges the boys to live by the Scout Oath and Law.
 
 > [!primary] Sign-ups
-> [Sept 25th Troop Olympics Campout](https://forms.gle/AMXmjLV39TDdCprT7?target=_blank)
+> [Oct 23th Climbing Campout](https://forms.gle/VgHTVG7fN4ShSfu58?target=_blank)
 
 
 > [!primary] Calendar of Events
