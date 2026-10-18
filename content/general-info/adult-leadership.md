@@ -40,16 +40,16 @@ Outdoor Activities Coordinator, Training Coordinator, Quartermaster, and Histori
 | Treasurer                           | Vinod Daggolu (<treasurer@bsatroop27.us>)        |
 | Advancement                         | Osiris Rosales (<advancement@bsatroop27.us>)     |
 | Membership                          | Astrid/Jaime Suarez (<membership@bsatroop27.us>) |
-| Quartermaster (Uniforms)            | Crystal Cherico (<quartermaster@bsatroop27.us>)  |
+| Quartermaster (Uniforms)            | Brooks Shutt (<quartermaster@bsatroop27.us>)  |
 | Quartermaster (Supplies)            | John Skinner (<quartermaster@bsatroop27.us>)     |
 | Fundraising                         | Louis Strickland (<fundraiser@bsatroop27.us>)    |
 | Training                            | Laura Ines Suarez                                |
-| Outdoor/Activities                  | Michael Spence                                   |
-| Shooting Sports Coordinator         | Richard Cherico                                  |
-| Climbing Sports Coordinator         | **_OPEN_**                                       |
-| Water Sports Coordinator            | Ricky Salinas                                    |
-| Summer Camp                         | Crystal Cherico                                  |
-| High Adventure                      | Crystal Cherico                                  |
+| Outdoor/Activities                  | Grant Kail                                       |
+| Shooting Sports Coordinator         | Paul Vandergriend                                |
+| Climbing Sports Coordinator         | Maggie Salinas                                   |
+| Water Sports Coordinator            | Carl Ford                                        |
+| Summer Camp                         | Swathi Karthikeyan                               |
+| High Adventure                      | John Skinner                                     |
 | Health Records                      | Jaime Suarez                                     |
 | Friends of Scouting                 | **_OPEN_**                                       |
 | Just Because Champion               | **_OPEN_**                                       |
@@ -57,8 +57,8 @@ Outdoor Activities Coordinator, Training Coordinator, Quartermaster, and Histori
 | Historian                           | Astrid Quiroga                                   |
 | Hospitality Coordinator             | Maggie Salinas                                   |
 | Outreach / Recruiting               | Jamie Kail (<webelosinfo@bsatroop27.us>)         |
-| Eagle Scout Process Adviser         | Christof Hamm                                    |
-| CPR/AED/First Aid Class Coordinator | Bill Ansley / Craig Hamilton                     |
+| Eagle Scout Coordinator             | Lance Withey                                     |
+| CPR/AED/First Aid Class Coordinator | Amy Shah                                         |
 | Webmaster                           | Craig Hamilton (<webmaster@bsatroop27.us>)       |
 
 ### The Scoutmaster
