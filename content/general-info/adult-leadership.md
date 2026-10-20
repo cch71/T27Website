@@ -39,7 +39,7 @@ Outdoor Activities Coordinator, Training Coordinator, Quartermaster, and Histori
 | Secretary                           | Lilith Vander Griend                             |
 | Treasurer                           | Vinod Daggolu (<treasurer@bsatroop27.us>)        |
 | Advancement                         | Osiris Rosales (<advancement@bsatroop27.us>)     |
-| Membership                          | Astrid/Jaime Suarez (<membership@bsatroop27.us>) |
+| Membership                          | Navendu Misra (<membership@bsatroop27.us>) |
 | Quartermaster (Uniforms)            | Brooks Shutt (<quartermaster@bsatroop27.us>)  |
 | Quartermaster (Supplies)            | John Skinner (<quartermaster@bsatroop27.us>)     |
 | Fundraising                         | Louis Strickland (<fundraiser@bsatroop27.us>)    |
@@ -54,7 +54,7 @@ Outdoor Activities Coordinator, Training Coordinator, Quartermaster, and Histori
 | Friends of Scouting                 | **_OPEN_**                                       |
 | Just Because Champion               | **_OPEN_**                                       |
 | Chaplain                            | David Kendrick                                   |
-| Historian                           | Astrid Quiroga                                   |
+| Historian                           | Mark Brady                                   |
 | Hospitality Coordinator             | Maggie Salinas                                   |
 | Outreach / Recruiting               | Jamie Kail (<webelosinfo@bsatroop27.us>)         |
 | Eagle Scout Coordinator             | Lance Withey                                     |
